@@ -1,5 +1,6 @@
-data/
+data/crimedataset/
 *.csv
 *.pkl
-*.h5
 *.zip
+*.h5
+*.json
